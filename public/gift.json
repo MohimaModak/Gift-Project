@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Occasion-based Gifts",
+    "image": "https://images.pexels.com/photos/257855/pexels-photo-257855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "category": "Recipient-specific Gifts",
+    "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?q=80&w=1440&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "category": "Interest-based Gifts",
+    "image": "https://images.unsplash.com/photo-1521478706270-f2e33c203d95?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "category": "Personalized Gifts",
+    "image": "https://images.unsplash.com/photo-1512916206820-bd6d503c003e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "category": "Experience Gifts",
+    "image": "https://images.unsplash.com/photo-1608755728617-aefab37d2edd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "category": "Subscription Boxes",
+    "image": "https://images.unsplash.com/photo-1602177720195-bf5a61c6d699?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "category": "DIY and Handmade Gifts",
+    "image": "https://images.unsplash.com/photo-1603533627544-4b256401b1ee?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "category": "Charitable Gifts",
+    "image": "https://images.unsplash.com/photo-1545785028-23ee5937cf69?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "category": "Luxury Gifts",
+    "image": "https://media.istockphoto.com/id/1428725362/photo/golden-gift-box-with-satin-bow-on-black-background-closeup.webp?b=1&s=170667a&w=0&k=20&c=nxf1pvyVCMMGpMedMxHWBsKmqquLbAQ41_wRGWT4FlQ="
+  },
+  {
+    "category": "Seasonal Gifts",
+    "image": "https://images.unsplash.com/photo-1482175828271-d793f8c731b2?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

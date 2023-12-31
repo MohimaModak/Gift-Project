@@ -5,11 +5,17 @@ const Navbar = () => {
     <div className="">
       <NavLink
         to="/"
-        className={` ({ isActive, isPending }) =>
-          isPending ? "pending" : isActive ? "active" : ""`
-        }
+        className={`pr-5 ({ isActive, isPending }) =>
+          isPending ? "pending" : isActive ? "active" : ""`}
       >
-        Demo
+        Choice
+      </NavLink>
+      <NavLink
+        to="/surprise"
+        className={` ({ isActive, isPending }) =>
+          isPending ? "pending" : isActive ? "active" : ""`}
+      >
+        Luck
       </NavLink>
     </div>
   );
