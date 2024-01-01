@@ -19,6 +19,7 @@ const router = createBrowserRouter([
       {
         path: "/surprise",
         element: <Surprise></Surprise>,
+        loader: () => fetch('http://localhost:5000/luck')
       },
     ],
   },
